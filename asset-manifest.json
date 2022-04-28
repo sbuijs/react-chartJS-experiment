@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-chartJS-experiment/static/css/main.073c9b0a.css",
-    "main.js": "/react-chartJS-experiment/static/js/main.3982f332.js",
+    "main.js": "/react-chartJS-experiment/static/js/main.7285bcd0.js",
     "index.html": "/react-chartJS-experiment/index.html",
     "main.073c9b0a.css.map": "/react-chartJS-experiment/static/css/main.073c9b0a.css.map",
-    "main.3982f332.js.map": "/react-chartJS-experiment/static/js/main.3982f332.js.map"
+    "main.7285bcd0.js.map": "/react-chartJS-experiment/static/js/main.7285bcd0.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3982f332.js"
+    "static/js/main.7285bcd0.js"
   ]
 }
