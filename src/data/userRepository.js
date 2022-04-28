@@ -6,7 +6,8 @@
 //     return data.data
 // }
 
-const url = '/data/dummyData.json';
+// const url = '/data/dummyData.json';
+const url = 'https://api.coincap.io/v2/assets/?limit=5';
 
 export const fetchPrices = async () => {
     const data = await fetch(url)
