@@ -1,3 +1,34 @@
+<div id="top"></div>
+
+
+<h1 align="left">React chartJS experiment</h1>
+  <p align="left">
+Creating ChartJS charts with data from https://api.coincap.io<br/>
+       <a href="https://sbuijs.github.io/react-chartJS-experiment/">View Demo</a>
+  </p>
+</div>
+<br/>
+<br/>
+
+<img width="1552" alt="Screenshot 2022-04-28 at 08 33 07" src="https://user-images.githubusercontent.com/1607627/165691485-08a8af94-72c5-4cec-87c0-be389d9abf10.png">
+
+
+## Built With
+- ReactJS
+- ChartJS
+
+
+## Contact
+
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/react-chartJS-experiment](https://github.com/sbuijs/react-chartJS-experiment)<br/>
+
+
+<p align="left">(<a href="#top">back to top</a>)</p>
+
+
+======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
