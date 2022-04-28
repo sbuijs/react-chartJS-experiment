@@ -1,3 +1,4 @@
+import { React } from "react";
 import './App.css';
 //react
 import { useEffect, useState } from 'react'
@@ -8,8 +9,6 @@ import { BarChart } from './components/BarChart';
 import { DoughnutChart } from './components/DoughnutChart';
 import { LineChart } from './components/LineChart';
 import { Container } from './components/UI/Continer';
-
-
 
 function App() {
 
