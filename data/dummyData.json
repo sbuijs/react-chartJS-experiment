@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": "bitcoin",
+      "rank": "1",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "supply": "18951162.0000000000000000",
+      "maxSupply": "21000000.0000000000000000",
+      "marketCapUsd": "809670478935.4788457641296706",
+      "volumeUsd24Hr": "11726303842.2290243400693149",
+      "priceUsd": "42724.0545426965821813",
+      "changePercent24Hr": "2.6079738910046129",
+      "vwap24Hr": "42431.0537246213211443",
+      "explorer": "https://blockchain.info/"
+    },
+    {
+      "id": "ethereum",
+      "rank": "2",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "supply": "119481550.8740000000000000",
+      "maxSupply": null,
+      "marketCapUsd": "367699439379.1989868106679458",
+      "volumeUsd24Hr": "7910897163.3434276935826402",
+      "priceUsd": "3077.4578726966699551",
+      "changePercent24Hr": "2.0938501276198571",
+      "vwap24Hr": "3040.3093147163866459",
+      "explorer": "https://etherscan.io/"
+    },
+    {
+      "id": "tether",
+      "rank": "3",
+      "symbol": "USDT",
+      "name": "Tether",
+      "supply": "77908751038.8446200000000000",
+      "maxSupply": null,
+      "marketCapUsd": "78061241543.4172601531857017",
+      "volumeUsd24Hr": "33453375855.2232279729922020",
+      "priceUsd": "1.0019572962284636",
+      "changePercent24Hr": "0.1024554645087058",
+      "vwap24Hr": "1.0002459038388132",
+      "explorer": "https://www.omniexplorer.info/asset/31"
+    },
+    {
+      "id": "binance-coin",
+      "rank": "4",
+      "symbol": "BNB",
+      "name": "BNB",
+      "supply": "166801148.0000000000000000",
+      "maxSupply": "166801148.0000000000000000",
+      "marketCapUsd": "71357522281.5118041692669212",
+      "volumeUsd24Hr": "690990374.3622935290328269",
+      "priceUsd": "427.7999470453992569",
+      "changePercent24Hr": "2.6198000056417124",
+      "vwap24Hr": "419.7284465038734304",
+      "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    },
+    {
+      "id": "usd-coin",
+      "rank": "5",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "supply": "51104380066.7372400000000000",
+      "maxSupply": null,
+      "marketCapUsd": "51173261327.8906114052893109",
+      "volumeUsd24Hr": "1268205620.1875575966114882",
+      "priceUsd": "1.0013478543534511",
+      "changePercent24Hr": "0.0764306663321059",
+      "vwap24Hr": "1.0008635498701128",
+      "explorer": "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    }
+  ],
+  "timestamp": 1644237860253
+}
