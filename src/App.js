@@ -55,7 +55,9 @@ function App() {
 
       <p>made with React-chartjs-2 is a React wrapper for Chart.js 2.0 and 3.0, letting us use Chart.js elements as React components.</p>
       <p>https://blog.logrocket.com/using-chart-js-react/</p>
+      <footer>bye</footer>
     </div>
+
   );
 }
 
