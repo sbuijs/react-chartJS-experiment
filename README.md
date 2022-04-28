@@ -3,7 +3,7 @@
 
 <h1 align="left">React chartJS experiment</h1>
   <p align="left">
-Creating ChartJS charts with data from https://api.coincap.io<br/>
+        Created ChartJS charts with data from https://api.coincap.io<br/>
        <a href="https://sbuijs.github.io/react-chartJS-experiment/">View Demo</a>
   </p>
 </div>
